@@ -166,9 +166,6 @@
     <ResourceCompile Include="ChecksumVerifier.rc" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="BluePearl.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="check.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
